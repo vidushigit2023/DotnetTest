@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DotNetDemo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DotNetDemo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\Cvfile\\Document123_02_2024_03_21_28.pdf",
+      "PackagePath": "staticwebassets\\Cvfile\\Document123_02_2024_03_21_28.pdf"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\ProfileImg\\Profile223_02_2024_03_49_54.jpg",
+      "PackagePath": "staticwebassets\\ProfileImg\\Profile223_02_2024_03_49_54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\ProfileImg\\Profile223_02_2024_03_52_54.jpg",
+      "PackagePath": "staticwebassets\\ProfileImg\\Profile223_02_2024_03_52_54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\ProfileImg\\Profile23_02_2024_01_58_16.png",
+      "PackagePath": "staticwebassets\\ProfileImg\\Profile23_02_2024_01_58_16.png"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\ProfileImg\\Profile23_02_2024_02_40_34.png",
+      "PackagePath": "staticwebassets\\ProfileImg\\Profile23_02_2024_02_40_34.png"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\ProfileImg\\Profile23_02_2024_02_40_50.png",
+      "PackagePath": "staticwebassets\\ProfileImg\\Profile23_02_2024_02_40_50.png"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\ProfileImg\\Profile23_02_2024_02_41_01.png",
+      "PackagePath": "staticwebassets\\ProfileImg\\Profile23_02_2024_02_41_01.png"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\ProfileImg\\Profile23_02_2024_03_45_34.png",
+      "PackagePath": "staticwebassets\\ProfileImg\\Profile23_02_2024_03_45_34.png"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\ProfileImg\\Profile23_02_2024_03_45_53.png",
+      "PackagePath": "staticwebassets\\ProfileImg\\Profile23_02_2024_03_45_53.png"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\ProfileImg\\Profile23_02_2024_03_46_19.png",
+      "PackagePath": "staticwebassets\\ProfileImg\\Profile23_02_2024_03_46_19.png"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SanketMohite\\OneDrive - Vidushi Infotech Pvt. Ltd\\DotNetDemo\\DotNetDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DotNetDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DotNetDemo.props",
+      "PackagePath": "build\\DotNetDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DotNetDemo.props",
+      "PackagePath": "buildMultiTargeting\\DotNetDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DotNetDemo.props",
+      "PackagePath": "buildTransitive\\DotNetDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
