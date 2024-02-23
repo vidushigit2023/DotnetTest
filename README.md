@@ -10,9 +10,10 @@ Software Requirement:
 Installation:
 1) Find a DB backup is given in ‘AppData’ in solution folder and restore it to the appropriate version.
 2) Open a project in Visual Studio 2022.
-               Find appsettings.json Change the connection strings according to the database credentials.
-3)Run the application.
-4)Default Admin User credential:
+   Find appsettings.json Change the connection strings according to the database credentials.
+   
+3) Run the application.
+4) Default Admin User credential:
                         Username: admin
                         Password: Admin@12345#
 
